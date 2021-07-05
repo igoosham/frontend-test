@@ -10,7 +10,7 @@ This is a test given to me recently.
 
 Test text is in [Frontend.Test.pdf](Frontend.Test.pdf)
 
-If the link to the layout in Figma stops working, you can see screenshots for the [mobile] (landing-mobile.png) and [regular] (landing-big.jpg) screens.
+If the link to the layout in Figma stops working, you can see screenshots for the [mobile](landing-mobile.png) and [regular](landing-big.jpg) screens.
 Please read the assignment before looking at the code. According to the assignment, I did NOT NEED to make the entire page.
 
 
